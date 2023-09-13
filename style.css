@@ -1,0 +1,102 @@
+body{
+    background-color:rgba(11, 43, 112);
+}
+navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgba(0, 0, 0, 0.6) ;
+    box-shadow: 10px 10px 13px black;
+    border-radius: 10px;
+}
+logo{
+    width:50% ;
+    padding-left:60px;
+    
+}
+home{
+    width:70% ;
+    transition: 0.5s;
+
+}
+a{
+    background-color:green;
+    color:white;
+    font-size:20px;
+}
+
+
+html{scroll-behavior: smooth;}
+	body{background-color: rgb(11, 43, 112);}
+
+    .bottom{
+        display: flex;
+        justify-content: space-around;
+    }
+   .bottom2{
+    display: flex;
+        justify-content: space-around;
+   } 
+   .about{
+    width:500px;
+    height:100px;
+    margin-top:50px;
+    font-size:20px;
+    color:white;
+   }
+   .box1 {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid #fff;
+    background-color: #f12711;
+}
+.part2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+.beaches{
+    height:500px;
+    width:500px;
+    
+}
+fieldset{
+    background-color:pink;
+    color:black;
+    width:60%;
+    margin: 275px;
+}
+   .text{
+    background-color:blue;
+    color:beige;
+font-size:30px;
+   }
+   .maina{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.a,.b,.c{
+    border:2px solid black;
+    width:30%;
+    height:340px;
+    background-color: green;
+   color:white;
+   text-align: center;
+   font-weight: 700;
+   font-size:20px;
+}
+
+.ijk{
+    color:blue;
+    font-size:18px;
+text-align:center;
+background-color:aqua;
+}
